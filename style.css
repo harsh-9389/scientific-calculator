@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.input{
+    width:37%;
+    /* hight: 20%; */
+    margin: 2%;
+    padding: 1%;
+    border: 0px solid darkgray;
+    border-radius: 10%;
+    font-size: 150%;
+}
+
+
+.button{
+    width: 10%;
+    border-radius: 30%;
+    border-color: darkgray;
+    padding:1%;
+    margin: 0.5%;
+}
+
+.equal{
+    width: 21%;
+    padding:1%;
+    border-radius: 70%;
+    border-color: darkgray;
+}
+
+.container{
+    border: 1px solid darkgray;
+    width:50%;
+    background-color: darkgray;
+    margin: 2%;
+    text-align: center;
+    fit
+    
+}
+
+body{
+    text-align: ;
+}
