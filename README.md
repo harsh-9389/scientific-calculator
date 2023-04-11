@@ -1,7 +1,2 @@
 # SMART CAL
-A scientific calculator 
-
-# Tack stac used
-## HTML 
-CSS
-JAVASCRIPT
+A scientific calculator built with HTML CSS and Javascript.
