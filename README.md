@@ -1,2 +1,7 @@
-# calc
-a calculator project build with html, css, javascript.
+# SMART CAL
+A scientific calculator 
+
+# Tack stac used
+HTML 
+CSS
+JAVASCRIPT
