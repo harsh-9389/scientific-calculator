@@ -2,6 +2,6 @@
 A scientific calculator 
 
 # Tack stac used
-HTML 
+## HTML 
 CSS
 JAVASCRIPT
